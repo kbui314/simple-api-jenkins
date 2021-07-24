@@ -1,1 +1,1 @@
-Jenkins Demo Project
+Jenkins AWS Demo Project
